@@ -9,6 +9,10 @@
 </p>
 
 ---
+### 📊 Commit Graph
+
+![Metrics](https://raw.githubusercontent.com/vishwas23a/vishwas23a/main/github-metrics.svg)
+
 
 ## 🚀 About Me
 
